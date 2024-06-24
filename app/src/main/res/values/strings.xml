@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Short Clip</string>
+    <string name="signup">Signup</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="have_an_account">Already have an account ?</string>
+
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+
+    <string name="click_to_upload">Click to Upload Video</string>
+    <string name="caption">Write your caption here</string>
+    <string name="cancel">Cancel</string>
+    <string name="post">Post</string>
+
+    <string name="following">Following</string>
+    <string name="follower">Follower</string>
+    <string name="posts_count">Posts</string>
+    <string name="follow">Follow</string>
+    <string name="unfollow">Unfollow</string>
+</resources>

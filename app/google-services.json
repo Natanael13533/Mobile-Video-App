@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "798115400300",
+    "project_id": "short-clip-45e95",
+    "storage_bucket": "short-clip-45e95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798115400300:android:acc2b86ecd20d263246649",
+        "android_client_info": {
+          "package_name": "com.example.shortclip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQaaRqvLIRnjHkbKdcDxatccRqnIrvOzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
